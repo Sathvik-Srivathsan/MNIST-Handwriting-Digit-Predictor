@@ -1,3 +1,5 @@
+Very basic program.
+
 MNIST Data Handling: Loads and prepares the famous MNIST dataset of handwritten digits.
 
 Simple Neural Network: Creates a basic deep learning model with:
